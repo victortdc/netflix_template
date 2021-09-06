@@ -3,6 +3,9 @@
 <ul>
  <li>Possui responsividade para mobile (android apenas testado) e Web</li>
 </ul>
+
+<br>
+Projeto feito com intuito de aprendizado baseado no speed code https://www.youtube.com/watch?v=rJKN_880b-M
 <br>
 Segue prints das telas abaixo em Mobile e Web. 
 <br>
